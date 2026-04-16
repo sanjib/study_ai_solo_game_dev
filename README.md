@@ -8,11 +8,7 @@ Generated images are further manipulated in Photoshop either to remove blemishes
 
 Videos are generated from which animation frames are created manually. Manual input is required for smooth and effective animations.
 
-[//]: # (Expert system based text adventure game created to showcase possibilities of game development where logic may be off loaded to AI systems. )
-
 Game model and logic offloaded to AI systems has the potential to provide competitive advantage of faster development time and low maintenance in the long-term. Ontology based game modeling can be used to create highly complex game subsystems and interdependent entity logic and components with ease.
-
-[//]: # (and created using ontology based systems. Ontologies and expert system based game development can greatly simplify creating and maintenance which can provided competitive advantage for solo developers.)
 
 AI assistance used in building infrastrucutre support in the form of build files, compiler choices, installation, graphic library setup, editor configuration, language server installation, programming and debugging support.
 
@@ -52,18 +48,6 @@ Package size: 24.5 MB
 [Download zip: 18.8 MB](./packages/rebel_mouse.zip)
 <br>
 After unzipping, run game.bat
-
-[//]: # (## Shape Shifter)
-
-[//]: # (Created using C++ and SFML.)
-
-[//]: # (## Geometry Wars)
-
-[//]: # (Created using C++ and SFML.)
-
-[//]: # (## Expert System-Based Text Adventure Game)
-
-[//]: # (Creatd using CLIPS expert system.)
 
 ## Ontology Case Study of Stardew Valley
 Created using ontologies based on RDF file format. [Protégé](https://protege.stanford.edu/) software is used for easily and visually creating ontologies. An example thin slice of the gifting subsystem of the game Stardew Valley was created as an example how such AI systems and models can be used for game development. 
